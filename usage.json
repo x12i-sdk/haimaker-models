@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "haimaker-models",
+  "packageVersion": "0.3.0",
+  "npmUrl": "https://www.npmjs.com/package/haimaker-models",
+  "usageRepository": "https://github.com/x12i-sdk/haimaker-models",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/haimaker-models",
+  "example": {
+    "title": "Look up models in the bundled offline catalog",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:10.379832+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "ff5bea3d2dd3e6e30a841d27b4753eb4fa44847a7c02414de1d434b644ac0a0f",
+    "manifestSha256": "315de889d389709ee47988c0bb593fe817cbd44b4cd8bb6b244bf5e36e919741"
+  }
+}

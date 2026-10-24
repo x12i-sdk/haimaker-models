@@ -1,0 +1,22 @@
+{
+  "name": "haimaker-models-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for haimaker-models: look up models in the bundled offline catalog.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "haimaker-models": "0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/haimaker-models.git"
+  },
+  "homepage": "https://www.npmjs.com/package/haimaker-models"
+}
