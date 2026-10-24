@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline JSON-backed haimaker.ai catalog — high-throughput pass-through + auto-routing.
-- An application needs the versioned haimaker-models definitions or bundled content instead of maintaining its own copy.
+- List the recorded Haimaker model catalog for an application model picker.
+- Read a model's bundled capabilities before configuring a gateway call.
 
 ## Links
 
